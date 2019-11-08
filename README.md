@@ -6,14 +6,14 @@ Open a terminal window to the current directory in Finder by a simple click
 - Open script with Script Editor.
 
 <div align=center> 
-![script](https://github.com/wonderyue/Go2ShellAppleScript/master/script.png)
+![script](https://raw.github.com/wonderyue/Go2ShellAppleScript/master/script.png)
 <font size=2> Script Editor </font>
 </div>
 	
 - Export script as app use Script Editor. 
 
 <div align=center> 
-![app](https://github.com/wonderyue/Go2ShellAppleScript/master/app.png)
+![app](https://raw.github.com/wonderyue/Go2ShellAppleScript/master/app.png)
 <font size=2> toolbar </font>
 </div>
 
