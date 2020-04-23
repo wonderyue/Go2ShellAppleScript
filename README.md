@@ -5,11 +5,11 @@ Open a terminal window to the current directory in Finder by a simple click
 
 - Open script with Script Editor.
 
-![script](https://raw.github.com/wonderyue/Go2ShellAppleScript/master/script.png)
+![script](https://github.com/wonderyue/Go2ShellAppleScript/raw/master/script.png)
 	
 - Export script as app use Script Editor. 
 
-![app](https://raw.github.com/wonderyue/Go2ShellAppleScript/master/app.png)
+![app](https://github.com/wonderyue/Go2ShellAppleScript/raw/master/app.png)
 
 - Hold down the Command key and drag it to the toolbar.
 
