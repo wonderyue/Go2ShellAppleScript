@@ -4,6 +4,8 @@ Open a terminal window to the current directory in Finder by a simple click
 ## Usage 
 
 - Open script with Script Editor.
+	- For Terminal: go2shell.scpt
+	- For iTerm2: go2shell_iTerm2.scpt 
 
 ![script](https://github.com/wonderyue/Go2ShellAppleScript/raw/master/script.png)
 	
